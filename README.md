@@ -32,7 +32,8 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaimShaikh&theme=radical" alt="GitHub Streak Stats" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saimeshaikh&theme=dark&hide_border=true)
+
 </p>
 
 <p align="center">
