@@ -1,61 +1,56 @@
 <h1 align="center">Hi 👋, I'm Saime Shaikh</h1>
-<h3 align="center">🚀 DevOps Enthusiast | Cloud Practitioner | Automation Lover</h3>
+<h3 align="center">A Passionate DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Passionate+DevOps+Engineer;Cloud+Computing+Specialist;Loves+Automation+and+CI%2FCD" />
+  <img src="https://komarev.com/ghpvc/?username=saimeshaikh&label=Profile%20Views&color=0e75b6&style=flat" alt="saimeshaikh" />
+</p>
+
+### 🚀 About Me:
+- 🔭 I’m currently working on **DevOps Projects**
+- 🌱 I’m learning **Terraform, Kubernetes, Ansible & Grafana**
+- ⚡ Fun fact: **I love automating things!**
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimeshaikh&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🔹 **About Me**
-- 🎓 Final-year **BTech Cloud Computing** student at **Ajeenkya DY Patil University**
-- 💡 Passionate about **DevOps, Cloud, CI/CD, and Automation**
-- ⚡ Hands-on experience in **Docker, Kubernetes, Terraform, AWS, and Jenkins**
-- 🌱 Currently learning **Ansible & Grafana**
-- 🛠️ Love to build scalable and resilient cloud infrastructure
-
----
-
-### 🚀 **Tech Stack & Tools**
+### 🔥 GitHub Streak Stats:
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimeshaikh&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-### 📊 **GitHub Stats**
-
-
+### 📈 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimShaikh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimShaikh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimeshaikh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📬 **Connect With Me**
-<p align="center">
-  <a href="https://linkedin.com/in/saime-shaikh" target="_blank">
+### 🛠️ Tech Stack:
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins
+- **Programming**: Python, Bash Scripting
+- **Version Control**: Git & GitHub
+- **Monitoring**: Prometheus, Grafana
+
+---
+
+### 📫 Connect With Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/saimeshaikh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shaikhsaime02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SaimShaikh" target="_blank">
+  <a href="https://github.com/saimeshaikh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-💡 *"Let's collaborate and build something awesome together!"* 🚀
+🔥 **Let's automate and innovate together!** 🚀
