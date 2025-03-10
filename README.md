@@ -1,7 +1,7 @@
 
 <h1>Hi 👋, I'm Saime Shaikh</h1>
 <p>A passionate for DevOps</p>
-<p>As a final-year BTech student specializing in Cloud Computing at Ajeenkya DY Patil University 🎓, I am passionate about leveraging technology to create innovative solutions. Throughout my academic journey, I have developed a strong foundation in DevOps practices, cloud services, and automation ☁️, complemented by hands-on experience in tools like Kubernetes, Terraform, Docker, and AWS.</p>
+<p>𝘈𝘴 𝘢 𝘧𝘪𝘯𝘢𝘭-𝘺𝘦𝘢𝘳 𝘉𝘛𝘦𝘤𝘩 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘪𝘯𝘨 𝘪𝘯 𝘊𝘭𝘰𝘶𝘥 𝘊𝘰𝘮𝘱𝘶𝘵𝘪𝘯𝘨 𝘢𝘵 𝘈𝘫𝘦𝘦𝘯𝘬𝘺𝘢 𝘋𝘠 𝘗𝘢𝘵𝘪𝘭 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 🎓, 𝘐 𝘢𝘮 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘭𝘦𝘷𝘦𝘳𝘢𝘨𝘪𝘯𝘨 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘪𝘯𝘯𝘰𝘷𝘢𝘵𝘪𝘷𝘦 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴. 𝘛𝘩𝘳𝘰𝘶𝘨𝘩𝘰𝘶𝘵 𝘮𝘺 𝘢𝘤𝘢𝘥𝘦𝘮𝘪𝘤 𝘫𝘰𝘶𝘳𝘯𝘦𝘺, 𝘐 𝘩𝘢𝘷𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘥 𝘢 𝘴𝘵𝘳𝘰𝘯𝘨 𝘧𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘋𝘦𝘷𝘖𝘱𝘴 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘦𝘴, 𝘤𝘭𝘰𝘶𝘥 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴, 𝘢𝘯𝘥 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯 ☁️, 𝘤𝘰𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵𝘦𝘥 𝘣𝘺 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘵𝘰𝘰𝘭𝘴 𝘭𝘪𝘬𝘦 𝘒𝘶𝘣𝘦𝘳𝘯𝘦𝘵𝘦𝘴, 𝘛𝘦𝘳𝘳𝘢𝘧𝘰𝘳𝘮, 𝘋𝘰𝘤𝘬𝘦𝘳, 𝘢𝘯𝘥 𝘈𝘞𝘚..</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
