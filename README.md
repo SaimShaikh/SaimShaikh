@@ -7,6 +7,8 @@
 </p>
 
 ---
+### **About Me** - **Final Year BTech Student in Cloud Computing** - **Aspiring DevOps Engineer**, passionate about automation & infrastructure - **Hands-on experience** with **Docker, Kubernetes, Jenkins, Terraform, Ansible, AWS, and more** - **Building scalable applications** with CI/CD & cloud-native technologies - **Currently exploring:** Helm, Terraform, and observability tools - Always open to **collaborations & learning opportunities**
+---
 
 ### 🚀 **Tech Stack & Tools**
 <p align="center">
