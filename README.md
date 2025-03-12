@@ -1,59 +1,53 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&width=500&lines=Hey!+I'm+Saime+Shaikh;A+DevOps+Enthusiast;Let's+Automate+Everything!+🚀" alt="Typing SVG" />
-</h1>
+<h1 align="center"> 
+  Hi there! 👋 I'm Saime Shaikh  
+</h1>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saimeshaikh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=BTech+Cloud+Computing+Student;DevOps+Enthusiast;Passionate+about+Automation+%F0%9F%94%8E;Always+Learning+%F0%9F%93%96" />
 </p>
 
 ---
 
-### 🚀 **About Me**
-- 🔭 I’m currently working on **DevOps Projects**
-- 🌱 Learning **Terraform, Kubernetes, Ansible & Grafana**
-- 🤖 Passionate about **Cloud, Automation & CI/CD**
-- ⚡ Fun fact: **I love automating everything!**
+### 🚀 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🌍 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/saimeshaikh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://hashnode.com/@saimeshaikh" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/saimeshaikh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimeshaikh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saimeshaikh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saimeshaikh&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 **GitHub Streak Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimeshaikh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+💡 **"Automation is the future, and I'm here to build it!"** 🚀
 
----
 
-### 📈 **Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimeshaikh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🛠️ **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,git,github,jenkins,bash,python,prometheus,grafana" alt="Tech Stack" />
-</p>
-
----
-
-### 📫 **Connect With Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/saimeshaikh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/saimeshaikh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-🔥 **Let's automate and innovate together!** 🚀
