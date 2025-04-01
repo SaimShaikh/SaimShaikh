@@ -7,7 +7,11 @@
 </p>
 
 # 💫 About Me:
-🔹 I'm currently working on enhancing my DevOps skills by learning and implementing tools like Terraform, Ansible, and Grafana.<br><br>🤝 I'm looking to collaborate on cloud-based automation, Infrastructure as Code (IaC), and containerized deployments using Kubernetes and ArgoCD.<br><br>❓ I'm looking for help with advanced Terraform configurations and best practices for scalable infrastructure.<br><br>📚 I'm currently learning Terraform and exploring its integration with AWS services.<br><br>💬 Ask me about DevOps, Kubernetes, AWS, CI/CD, and automation—I'm always excited to discuss and share knowledge!<br><br>😄 Fun fact: I enjoy breaking and fixing things in DevOps environments—because troubleshooting is where the real learning happens!
+ 🚀 Hello! I'm Saime Shaikh, a tech-driven innovator and final-year BTech student specializing in Cloud Computing at Ajeenkya DY Patil University, Pune. My expertise lies in DevOps, cloud technologies, and automation, where I craft scalable and resilient infrastructures.
+
+My passion lies in building scalable and efficient cloud infrastructure. My future goal is to become a skilled DevOps Engineer, contributing to innovative cloud solutions and enhancing deployment automation. I'm always eager to learn, collaborate, and grow in the ever-evolving tech landscape.
+
+
 
 
 ## 🌐 Socials:
