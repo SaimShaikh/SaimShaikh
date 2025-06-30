@@ -67,7 +67,7 @@
 
 ---
 
-## 🏆 GitHub Trophies (Optional Eye Candy)
+## 🏆 GitHub Trophies 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaimShaikh&theme=radical&margin-w=10&column=6" alt="GitHub Trophies for Saime Shaikh" />
